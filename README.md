@@ -3,3 +3,5 @@
 
 ## [Latex Link](https://www.overleaf.com/project/605b61f5ea2fa41fbdfda221)
 
+## [Google Slides](https://docs.google.com/presentation/d/1tVq9v76QZoqw9p3x2QAoALkB-wNCXl6DtSSUtTiktCc/edit?usp=sharing)
+
